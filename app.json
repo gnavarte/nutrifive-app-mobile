@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "nutrifive-frontend",
+    "slug": "nutrifive-frontend",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "permissions": [
+      "CAMERA"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "7b0b4df1-b7f8-486e-b765-72143dbf801c"
+      }
+    },
+    "android": {
+      "package": "com.facundomarianelli.nutrifivefrontend"
+    }
+  },
+  "name": "nutrifive-frontend"
+}
